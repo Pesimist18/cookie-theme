@@ -18,8 +18,8 @@ span.cm-variable-3	{ color: #4b566b; }
 span.cm-bracket		{ color: #6f42c1; }
 span.cm-tag			{ color: #6f42c1; }
 
-span.cm-attribute	{ color: #ffc107; }
-span.cm-property	{ color: #ffc107; } /* property after string */
+span.cm-attribute	{ color: #007bff; }
+span.cm-property	{ color: #007bff; } /* property after string */
 
 span.cm-comment		{ color: #779cac; }
 span.cm-error		{ color: #ff3da5; }
@@ -34,8 +34,8 @@ span.cm-variable	{ color: #0056ba; }
 }
 
 .CodeMirror-scroll {
-	background: #fff;
-	color: #333;
+	background: #f3f5f9;
+	color: #373f50;
 }
 
 .CodeMirror-cursor {
