@@ -8,8 +8,8 @@ span.cm-operator	{ color: #fe696a; }
 span.cm-qualifier	{ color: #fe696a; }
 
 span.cm-atom		{ color: #111; }
-span.cm-link		{ color: #fe696a; }
-span.cm-number		{ color: #fe696a; }
+span.cm-link		{ color: #007bff; }
+span.cm-number		{ color: #e83e8c; }
 span.cm-string		{ color: #fe696a; }
 span.cm-string-2    { color: #fe696a; }
 span.cm-variable-2	{ color: #6610f2; }
