@@ -12,8 +12,8 @@ span.cm-link		{ color: #fe696a; }
 span.cm-number		{ color: #fe696a; }
 span.cm-string		{ color: #fe696a; }
 span.cm-string-2    { color: #fe696a; }
-span.cm-variable-2	{ color: #fe696a; }
-span.cm-variable-3	{ color: #fe696a; }
+span.cm-variable-2	{ color: #6610f2; }
+span.cm-variable-3	{ color: #6610f2; }
 
 span.cm-bracket		{ color: #6f42c1; }
 span.cm-tag			{ color: #6f42c1; }
