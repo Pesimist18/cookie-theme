@@ -10,8 +10,8 @@ span.cm-qualifier	{ color: #fe696a; }
 span.cm-atom		{ color: #fe696a; }
 span.cm-link		{ color: #fe696a; }
 span.cm-number		{ color: #fe696a; }
-span.cm-string		{ color: #fe696a; }
-span.cm-string-2    { color: #fe696a; }
+span.cm-string		{ color: #333; }
+span.cm-string-2    { color: #111; }
 span.cm-variable-2	{ color: #6610f2; }
 span.cm-variable-3	{ color: #6610f2; }
 
