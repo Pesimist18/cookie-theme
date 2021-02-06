@@ -34,8 +34,8 @@ span.cm-keyword		{ color: #333128; }
 }
 
 .CodeMirror-scroll {
-	background: #f2eee1;
-	color: #6f6d64;
+	background: #fafafa;
+	color: #333333;
 }
 
 .CodeMirror-cursor {
