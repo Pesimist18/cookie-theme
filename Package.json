@@ -1,0 +1,19 @@
+{
+    "title": "Cookie",
+    "name": "cookie-theme",
+    "description": "This theme is my first github project",
+    "version": "1.0.8",
+    "author": "Vedat Emre Gündüz <vedat.bilisim2@gmail.com> (http://vedatgunduz.site/)",
+    "homepage": "https://github.com/cookie-theme/Cookie",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Pesimist18/cookie-theme.git"
+    },
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "main.css",
+        "brown": true
+    }
+}
