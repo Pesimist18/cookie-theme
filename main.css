@@ -7,13 +7,13 @@ span.cm-meta		{ color: #fe696a; }
 span.cm-operator	{ color: #fe696a; }
 span.cm-qualifier	{ color: #fe696a; }
 
-span.cm-atom		{ color: #4b566b; }
-span.cm-link		{ color: #4b566b; }
-span.cm-number		{ color: #4b566b; }
-span.cm-string		{ color: #4b566b; }
-span.cm-string-2    { color: #4b566b; }
-span.cm-variable-2	{ color: #4b566b; }
-span.cm-variable-3	{ color: #4b566b; }
+span.cm-atom		{ color: #fe696a; }
+span.cm-link		{ color: #fe696a; }
+span.cm-number		{ color: #fe696a; }
+span.cm-string		{ color: #fe696a; }
+span.cm-string-2    { color: #fe696a; }
+span.cm-variable-2	{ color: #fe696a; }
+span.cm-variable-3	{ color: #fe696a; }
 
 span.cm-bracket		{ color: #6f42c1; }
 span.cm-tag			{ color: #6f42c1; }
